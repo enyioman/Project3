@@ -160,7 +160,7 @@ node index.js
 ![Node up](./media/nodeserv.png)
 
 
-f every thing goes well, you should see Server running on port 5000 in your terminal.
+If every thing goes well, you should see Server running on port 5000 in your terminal.
 
 ![Express up](./media/expresswel.png)
 
