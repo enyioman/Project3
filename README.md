@@ -1,7 +1,7 @@
 # Project3
 MERN Stack Implementation
 
-A SIMPLE TO-DO APPLICATION ON MERN WEB STACK
+A SIMPLE TO-DO APPLICATION ON MERN WEB STACK DEPLOYED ON AWS
 
 Step 1: Backend configuration
 
