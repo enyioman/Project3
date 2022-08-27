@@ -1,5 +1,5 @@
-# Project3
-MERN Stack Implementation
+# MERN Stack Implementation On AWS
+
 
 A SIMPLE TO-DO APPLICATION ON MERN WEB STACK DEPLOYED ON AWS CLOUD
 
